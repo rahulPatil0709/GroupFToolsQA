@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeTest;
 
 public class BaseClass {
 
-	public static WebDriver driver; // create a object of WebDriver
+	public static WebDriver driver; // create a object of WebDriver changed
 
 	public static Properties prop; // create a object of Properties.
 
