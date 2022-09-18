@@ -20,7 +20,6 @@ public class BaseClass {
 	static String projectPath = System.getProperty("user.dir");
 
 	public void intializationDriver() {
-		// Initialization is also called as a Load application.
 		// Type mismatch: cannot convert from Object to String
 		String browser = (String) prop.get("browser");
 
